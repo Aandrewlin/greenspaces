@@ -28,7 +28,7 @@ Top 6 (due to tie) subdivisions with the **lowest number** of green spaces:
 2. Blake-Jones, at 4
 
 Top 5 subdivisions with the **highest square meterage** of green space:
-1. Rogue, at about 23,861,826 square meters
+1. Rogue, at about $23,861,826 m^2$ square meters
 2. West Hill, at about 4,980,551 square meters
 3. Woburn, at about 4,432,331 square meters
 4. Banbury-Don Mills, at about 4,070,451 square meters
