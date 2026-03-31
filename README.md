@@ -12,4 +12,11 @@ I began this project at the March 26 datathon jointly hosted by the Yorku Data S
 ## Summary Statistics
 We consider summary statistics, keeping in mind there are 140 subdivisions in total.
 
+Top 5 subdivisions with the highest number of green spaces:
+1. Rouge, at 254
+2. Waterfront Communities - The Island, at 101
+3. West Humber-Clairville, at 84
+4. Birchcliffe-Cliffside, at 78
+5. Islington-City Centre West, at 74
+
 
