@@ -28,18 +28,18 @@ Top 6 (due to tie) subdivisions with the **lowest number** of green spaces:
 2. Blake-Jones, at 4
 
 Top 5 subdivisions with the **highest square meterage** of green space:
-1. Rogue, at about 23,861,826 $m^2$ square meters
-2. West Hill, at about 4,980,551 square meters
-3. Woburn, at about 4,432,331 square meters
-4. Banbury-Don Mills, at about 4,070,451 square meters
-5. West Humber-Clairville, at about 3,910,539 square meters
+1. Rogue, at about 23,861,826 $m^2$ 
+2. West Hill, at about 4,980,551 $m^2$
+3. Woburn, at about 4,432,331 $m^2$
+4. Banbury-Don Mills, at about 4,070,451 $m^2$
+5. West Humber-Clairville, at about 3,910,539 $m^2$
 
 Top 5 subdivisions with the **lowest square meterage** of green space:
-1. Runnymede-Bloor West Village, at about 11,014 square meters
-2. Danforth, at about 11,394 square meters
-3. North St.James Town, at about 14,915 square meters
-4. University, at about 17,759 square meters
-5. Little Portugal, at about 23,498 square meters
+1. Runnymede-Bloor West Village, at about 11,014 $m^2$
+2. Danforth, at about 11,394 $m^2$
+3. North St.James Town, at about 14,915 $m^2$
+4. University, at about 17,759 $m^2$
+5. Little Portugal, at about 23,498 $m^2$
 
 Top 5 subdivisions with the **highest coverage** of green space:
 1. Flemingdon Park, at about 100% 
