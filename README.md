@@ -57,14 +57,22 @@ Top 5 subdivisions with the **lowest coverage** of green space:
 
 ### 5-number summary for coverage
 Min.: about 0.7% 
+
 1st quartile: about 8% 
+
 Median: about 16% 
+
 3rd quartile: about 35% 
+
 Max.: about 100% 
+
 
 Standard deviation: about 21%
 
+
 IQR: about 26.743% 
+
 Upper bound: about 74.675% 
+
 Amount of outliers: 6. These are the top 5 subdivisions with the highest coverage mentioned above, plus the Taylor-Massey subdivision which has about 76% green space coverage.
 
