@@ -55,12 +55,16 @@ Top 5 subdivisions with the **lowest coverage** of green space:
 4. Little Portugal, at about 1.9%
 5. (Ironically) Oakwood Village, at about 2.5%
 
-**5-number summary for coverage**:
-Min.: about 0.7%
-1st quartile: about 8%
-Median: about 16%
-3rd quartile: about 35%
-Max.: about 100%
+### 5-number summary for coverage
+Min.: about 0.7% 
+
+1st quartile: about 8% 
+
+Median: about 16% 
+
+3rd quartile: about 35% 
+
+Max.: about 100% 
 
 Standard deviation: about 21%
 
