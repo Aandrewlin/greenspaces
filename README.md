@@ -6,3 +6,7 @@ Hello and welcome to my first data analysis project! I used data from the City o
 I began this project at the March 26 datathon jointly hosted by the Yorku Data Science Club, Yorku Library Data Services and Toronto Open Data. During the event, I tried a few tools like Tableau and Geopandas, but it didn't go smoothly. Afterwards, a librarian suggested that I use a Geographic Information System (GIS) tool, which made sense since we were working with map data after all. The following is the result. 
 
 ![Toronto Subdivisions Green Spaces Count.png](https://github.com/Aandrewlin/greenspaces/blob/eb212a33ffa30d7a5d3513cb4d1149e0e1de4e1f/Toronto%20Subdivisions%20Green%20Spaces%20Count.png)
+
+![Toronto Subdivisions Green Spaces Coverage Percentage.png](https://github.com/Aandrewlin/greenspaces/blob/54271dee22f87f3320677e13eae0fb85c10ec00d/Toronto%20Subdivisions%20Green%20Spaces%20Coverage%20Percentage.png)
+
+summary statistics here
