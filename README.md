@@ -9,4 +9,7 @@ I began this project at the March 26 datathon jointly hosted by the Yorku Data S
 
 ![Toronto Subdivisions Green Spaces Coverage Percentage.png](https://github.com/Aandrewlin/greenspaces/blob/54271dee22f87f3320677e13eae0fb85c10ec00d/Toronto%20Subdivisions%20Green%20Spaces%20Coverage%20Percentage.png)
 
-summary statistics here
+## Summary Statistics
+We consider summary statistics, keeping in mind there are 140 subdivisions in total.
+
+
