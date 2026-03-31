@@ -10,7 +10,7 @@ I began this project at the March 26 datathon jointly hosted by the Yorku Data S
 ![Toronto Subdivisions Green Spaces Coverage Percentage.png](https://github.com/Aandrewlin/greenspaces/blob/54271dee22f87f3320677e13eae0fb85c10ec00d/Toronto%20Subdivisions%20Green%20Spaces%20Coverage%20Percentage.png)
 
 ## Summary Statistics
-We consider summary statistics, keeping in mind there are 140 subdivisions in total.
+We consider notable statistics, keeping in mind there are 140 subdivisions in total.
 
 Top 5 subdivisions with the **highest number** of green spaces:
 1. Rouge, at 254
@@ -55,7 +55,7 @@ Top 5 subdivisions with the **lowest coverage** of green space:
 4. Little Portugal, at about 1.9%
 5. (Ironically) Oakwood Village, at about 2.5%
 
-### 5-number summary, outliers, for coverage
+### 5-number summary, outliers, for Green Space coverage
 Min.: about 0.7% 
 
 1st quartile: about 8% 
