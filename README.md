@@ -5,7 +5,7 @@ Hello and welcome to my first data analysis project! I used data from the City o
 
 ![Toronto Subdivisions Green Spaces Coverage Percentage.png](https://github.com/Aandrewlin/greenspaces/blob/54271dee22f87f3320677e13eae0fb85c10ec00d/Toronto%20Subdivisions%20Green%20Spaces%20Coverage%20Percentage.png)
 
->replace with compostion of GS coverage and health outcomes [Toronto Subdivisions Green Spaces Count.png](https://github.com/Aandrewlin/greenspaces/blob/eb212a33ffa30d7a5d3513cb4d1149e0e1de4e1f/Toronto%20Subdivisions%20Green%20Spaces%20Count.png)
+>add composition of GS coverage and health outcomes 
 
 ## Notable Statistics
 We first consider data strictly about green spaces, keeping in mind there are 140 subdivisions in total.
