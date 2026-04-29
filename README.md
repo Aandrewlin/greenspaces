@@ -13,7 +13,7 @@ A Business Improvement Area (BIA), on the other hand, describes a space enacted 
 
 ![Greenspaces_with_subdivison_labels.png](https://github.com/Aandrewlin/greenspaces/blob/ff5cb8b7b464735af13bb6619cb1e981410605b7/Greenspaces_with_subdivison_labels.png)
 
-![BIAs overlayed on Greenspaces.png]()
+![BIAs overlayed on Greenspaces.png](https://github.com/Aandrewlin/greenspaces/blob/ca8992727fe3fdcefbaaa05e08532bc9ea22e96d/BIAs%20overlayed%20on%20Greenspaces.png)
 
 ## Notable Statistics
 
