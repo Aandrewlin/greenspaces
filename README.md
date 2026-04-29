@@ -2,8 +2,10 @@
 Data Analysis and Visualisation project. Begun in March 2026.
 
 Hello and welcome to my first data analysis project! I used geospatial data from the City of Toronto's Open Data Portal and the QGIS software to create choropleth maps about green spaces in Toronto subdivisions. 
+
 According to Open Data Toronto (2026), green spaces include, but are not limited to: public parks, beaches, parts of ravines, golf courses and cemeteries. 
-A Business Improvement Area (BIA), on the other hand, describes a space enacted by City Council, in partnership with commercial property owners and tenants, to create thriving, competitive and safe business areas that attract shoppers, diners, tourists and new businesses (Open Data Toronto, 2026).
+
+A Business Improvement Area (BIA), on the other hand, describes a space enacted by City Council, in partnership with commercial property owners and tenants, to create thriving, competitive and safe business areas that attract shoppers, diners, tourists and new businesses (Open Data Toronto, 2026). My thought is that the intersection between green spaces and BIAs is a good consideration for newcomers and young people looking for a place to begin their lives in the city. 
 
 ![Toronto Subdivisions Green Spaces Coverage Percentage.png](https://github.com/Aandrewlin/greenspaces/blob/54271dee22f87f3320677e13eae0fb85c10ec00d/Toronto%20Subdivisions%20Green%20Spaces%20Coverage%20Percentage.png)
 
