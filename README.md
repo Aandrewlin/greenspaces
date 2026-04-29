@@ -1,13 +1,15 @@
 # greenspaces
-Data Analysis and Visualisation project. March 2026.
+Data Analysis and Visualisation project. Begun in March 2026.
 
-Hello and welcome to my first data analysis project! I used geospatial data from the City of Toronto's Open Data Portal and the QGIS software to create choropleth maps about green spaces in Toronto subdivisions. According to Open Data Toronto (2026), green spaces include, but are not limited to: public parks, beaches, parts of ravines, golf courses and cemeteries.
+Hello and welcome to my first data analysis project! I used geospatial data from the City of Toronto's Open Data Portal and the QGIS software to create choropleth maps about green spaces in Toronto subdivisions. 
+According to Open Data Toronto (2026), green spaces include, but are not limited to: public parks, beaches, parts of ravines, golf courses and cemeteries. 
+A Business Improvement Area (BIA), on the other hand, describes a space enacted by City Council, in partnership with commercial property owners and tenants, to create thriving, competitive and safe business areas that attract shoppers, diners, tourists and new businesses (Open Data Toronto, 2026).
 
 ![Toronto Subdivisions Green Spaces Coverage Percentage.png](https://github.com/Aandrewlin/greenspaces/blob/54271dee22f87f3320677e13eae0fb85c10ec00d/Toronto%20Subdivisions%20Green%20Spaces%20Coverage%20Percentage.png)
 
 ![Greenspaces_with_subdivison_labels.png](https://github.com/Aandrewlin/greenspaces/blob/ff5cb8b7b464735af13bb6619cb1e981410605b7/Greenspaces_with_subdivison_labels.png)
 
-![BIAs (labelled) overlayed on Greenspaces.png]
+![BIAs (labelled) overlayed on Greenspaces.png](https://github.com/Aandrewlin/greenspaces/blob/62953d7723b7fb1dec0768cd28a92a2d8c70784e/BIAs%20(labelled)%20overlayed%20on%20Greenspaces.png)
 
 ## Notable Statistics
 
@@ -58,5 +60,5 @@ IQR: about 26.743%
 
 Upper bound: about 74.675% 
 
-Amount of outliers: 6. These are the top 5 subdivisions with the highest coverage mentioned above, plus the Taylor-Massey subdivision which has about 76% green space coverage.
+Amount of outliers: 6. These are the six subdivisions with the highest green space coverage.
 
