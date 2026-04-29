@@ -1,14 +1,15 @@
 # greenspaces
 Data Analysis and Visualisation project. March 2026.
 
-Hello and welcome to my first data analysis project! I used data from the City of Toronto's Open Data Portal and the QGIS software to create two choropleth maps about green spaces. According to Open Data Toronto (2026), green spaces include, but are not limited to: public parks, beaches, parts of ravines, golf courses and cemeteries.
+Hello and welcome to my first data analysis project! I used geospatial data from the City of Toronto's Open Data Portal and the QGIS software to create choropleth maps about green spaces in Toronto subdivisions. According to Open Data Toronto (2026), green spaces include, but are not limited to: public parks, beaches, parts of ravines, golf courses and cemeteries.
 
 ![Toronto Subdivisions Green Spaces Coverage Percentage.png](https://github.com/Aandrewlin/greenspaces/blob/54271dee22f87f3320677e13eae0fb85c10ec00d/Toronto%20Subdivisions%20Green%20Spaces%20Coverage%20Percentage.png)
 
 ![Greenspaces_with_subdivison_labels.png](https://github.com/Aandrewlin/greenspaces/blob/ff5cb8b7b464735af13bb6619cb1e981410605b7/Greenspaces_with_subdivison_labels.png)
 
+![BIAs (labelled) overlayed on Greenspaces.png]
+
 ## Notable Statistics
-We first consider data strictly about green spaces, keeping in mind there are 140 subdivisions in total.
 
 Top 5 subdivisions with the **highest square meterage** of green space:
 1. Rogue, at about 23,861,826 $m^2$ 
