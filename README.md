@@ -3,7 +3,9 @@ Data Analysis and Visualisation project. Begun in March 2026.
 
 Hello and welcome to my first data analysis project! I used geospatial data from the City of Toronto's Open Data Portal and the QGIS software to create choropleth maps about green spaces in Toronto subdivisions. 
 
-According to Open Data Toronto (2026), green spaces include, but are not limited to: public parks, beaches, parts of ravines, golf courses and cemeteries. 
+Growing up, my mother would tell me that looking at greenery is good for my eyes. In addition to being visually pleasant, "urban green spaces have a natural ability to filter pollution from the air and reduce local air and ground temperature" (David Suzuki Foundation, 2015). The relief green spaces provide from air pollution and high summer temperatures helps to prevent "illnesses, hospitalizations and deaths, especially among older adults", and will only become more important due to our aging population and the increasing prevalence of heat waves (David Suzuki Foundation, 2015). It follows then, that unequal distribution of green spaces leads to dense, lower-income inner-city neighbourhoods experiencing greater heat and air-pollution related health burdens (David Suzuki Foundation, 2015). The investigation of green space coverage is not only recreationally-motivated, but also health-motivated, and could have implications for future urban planning.  
+
+Open Data Toronto (2026) defines green spaces as including, but are not limited to: public parks, beaches, parts of ravines, golf courses and cemeteries. 
 
 A Business Improvement Area (BIA), on the other hand, describes a space enacted by City Council, in partnership with commercial property owners and tenants, to create thriving, competitive and safe business areas that attract shoppers, diners, tourists and new businesses (Open Data Toronto, 2026). My thought is that the intersection between green spaces and BIAs is a good consideration for newcomers and young people looking for a place to begin their lives in the city. 
 
